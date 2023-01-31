@@ -8,6 +8,9 @@
 }
 
 body {
+    background-image: url("../images/Breathlogo.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
     font-family: Quiksand, sans-serif;
     color:blanchedalmond;
 }
