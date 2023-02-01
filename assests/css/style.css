@@ -63,8 +63,11 @@ ul {
 
 #breathing-header{
     height:600px;
-    width: 100%;
-    background: url("../images/breathing-header.jpg") no-repeat center;
+    background: url("../images/breathing-header.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 
 }
 
