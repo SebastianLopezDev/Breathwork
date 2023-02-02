@@ -80,13 +80,19 @@ li a {
     border: transparent;
     margin: 1rem;
     padding: 2rem 2rem;
-    text-align: center;
+    text-align: left;
   }
   .child {
     display: inline-block;
     border: transparent;
     padding: 1rem 1rem;
     vertical-align: middle;
+    
+  }
+
+ul.a {
+    list-style-type: circle;
+    color: #111;
   }
   
 
