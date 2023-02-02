@@ -17,6 +17,7 @@ h1, h2{
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
+    padding: 1rem;
 }
 
 #logo{
@@ -107,10 +108,7 @@ ul.a {
 /* Footer */
 
 footer{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+
     background-color: #333;
     text-align: center;
 }
