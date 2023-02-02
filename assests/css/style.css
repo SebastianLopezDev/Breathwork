@@ -80,7 +80,7 @@ li a {
     border: transparent;
     margin: 1rem;
     padding: 2rem 2rem;
-    text-align: left;
+    text-align: center;
   }
   .child {
     display: inline-block;
