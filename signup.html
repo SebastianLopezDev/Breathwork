@@ -1,68 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="A place for people who want to reduce stress" />
+        <meta name="keywords" content="Breathwork videos, breathing, Dmt breathing" />
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A place for people who want to reduce stress">
-    <meta name="keywords" content="Breathwork videos, breathing, Dmt breathing">
+        <!-- Stylesheet -->
+        <title>Signup</title>
+        <link href="assests/css/style.css" rel="stylesheet" type="text/css" />
+    </head>
 
-    <!-- Stylesheet -->
-    <link href="assests/css/style.css" rel="stylesheet" type="text/css" />
-    
-    <title>Breathwork</title>
+    <body>
+        <header>
+            <a href="index.html">
+                <h1 id="logo">Breathwork</h1>
+            </a>
+            <nav>
+                <ul id="menu">
+                    <li>
+                        <a class="active" href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+                    <li>
+                        <a href="signup.html">Signup</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <section id="hero-outer">
+            <div id="breathing-header"></div>
+        </section>
+        <section class="form-section">
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+                <h2>Let's breath togheter!</h2>
+                <label for="fname">First Name</label>
+                <input id="fname" name="first_name" type="text" class="text-input" required />
 
-</head>
+                <label for="lname">Last Name</label>
+                <input id="lname" name="last_name" type="text" class="text-input" required />
 
-<body>
-    <header>
-        <a href="index.html">
-            <h1 id="logo">Breathwork</h1>
-        </a>
-        <nav>
-            <ul id="menu"> 
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email_address" class="text-input" required />
+
+                <input class="join-button" type="submit" value="Let's breath!" />
+            </form>
+        </section>
+        <footer>
+            <ul class="social-networks">
                 <li>
-                    <a class="active" href="index.html">Home</a>   
+                    <a href="https://www.facebook.com" target="_blank" rel="noopener"><i class="fab fa-facebook"></i></a>
                 </li>
                 <li>
-                    <a href="about.html">About</a>   
+                    <a href="https://www.twitter.com" target="_blank" rel="noopener"><i class="fab fa-twitter-square"></i></a>
                 </li>
                 <li>
-                    <a href="signup.html">Signup</a>   
+                    <a href="https://www.youtube.com" target="_blank" rel="noopener"><i class="fab fa-youtube-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a>
                 </li>
             </ul>
-        </nav>
-    </header>
-    <section id="hero-outer">
-        <div id="breathing-header"></div>
-    </section>
-    <section class="form-section">
-        <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
-            <h2>Let's breath togheter!</h2>
-            <label for="fname">First Name</label>
-            <input id="fname" name="first_name" type="text" class="text-input" required>
-            
-            <label for="lname">Last Name</label>
-            <input id="lname" name="last_name" type="text" class="text-input" required>
-            
-            <label for="email">Email Address</label>
-            <input type="email" id="email" name="email_address" class="text-input" required>
-            
-        
-            <input class="join-button" type="submit" value="Let's breath!">
-        </form>
-    </section>
-    <footer>
-        <ul class="social-networks">
-            <li><a href="https://www.facebook.com" target="_blank" rel="noopener"><i class="fab fa-facebook"></i></a></li>
-            <li><a href="https://www.twitter.com" target="_blank" rel="noopener"><i class="fab fa-twitter-square"></i></a></li>
-            <li><a href="https://www.youtube.com" target="_blank" rel="noopener"><i class="fab fa-youtube-square"></i></a></li>
-            <li><a href="https://www.instagram.com" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a></li>
-        </ul>
-    </footer>
+        </footer>
 
-    <!-- Font awesome script -->
-    <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
-</body>
-
+        <!-- Font awesome script -->
+        <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
+    </body>
 </html>
