@@ -19,7 +19,9 @@ The About page is a more in depth description of what breathwork is and the bene
 Then you have the signup page, if you want to become a member of the breathing family.
 
 ## Visuals
+### Here is where you can click to watch the video and follow along.
 ![ScreenShot](assests/images/Homepage.jpg)
+### A screenshot of how the page looks in different screens.
 ![ScreenShot](assests/images/DifferentScreens.jpg)
 
 ## Roadmap
@@ -39,6 +41,7 @@ Sad to  say that development has slowed down because of sickness in the family, 
 * Github
 * google.fonts
 * notebook
+* Paint
 
 ## Help
 
