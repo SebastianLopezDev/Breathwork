@@ -3,9 +3,10 @@
 Simple overview of use/purpose.
 
 ## How to
-
-* How to run the program.
 * When you load the page scroll down and read the small description then press play on the video below.
+* If you want to know more about breathwork press on the About button in the navigation section.
+* To signup press on the signup button in the navigation section, fill in your name, last name and email adress, we contact you.
+
 
 
 ## Description
@@ -18,7 +19,8 @@ The About page is a more in depth description of what breathwork is and the bene
 Then you have the signup page, if you want to become a member of the breathing family.
 
 ## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+![ScreenShot](assests/images/Homepage.jpg)
+![ScreenShot](assests/images/DifferentScreens.jpg)
 
 ## Installation
 Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
@@ -46,32 +48,31 @@ Show your appreciation to those who have contributed to the project.
 For open source projects, say how it is licensed.
 
 ## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+Sad to  say that development has slowed down because of sickness in the family, i had to put this in a hurry, i realy hope you enjoy it.
 
 ## Future
 
-*In the future i am going to make a zoom section where people can breath togheter.
+*In the future i am going to make a zoom section where people can breath togheter, and put some more videos.
+The magic happens when we do it togheter.
 
 ## Dependencies
 
-*slack
+* slack
 * Github
 * google.fonts
 * notebook
 
-code blocks for commands
-```
-
 ## Help
 
-If you find any issues or bugs, or want to help in any way
-please send a messege to seblop888@gmail.com
+If you are pregnant , have respiratory issues or heart issues please do not do these breathing exercises.
+Send me a messege to seblop888@gmail.com if you need help with the technics or got some issues doing the exercises.
+Note that i do not take responsibility in any kind, i am just here to help you.
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
 * https://www.webmd.com/balance/what-is-breathwork
-* www.google.com
+* https://www.google.com
 * https://fonts.google.com/
 * https://www.w3schools.com/
-* https://www.youtube.com
+* [https://www.youtube.com](https://www.youtube.com/@BreathworkBeats)
