@@ -28,14 +28,7 @@ The magic happens when we do it togheter.
 
 
 ## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-I have to give a big thanks to Dan from BreathworkBeats for putting up theese videos for free on (https://www.youtube.com/@BreathworkBeats).
+If you want to contribute in any way or find any bugs or have some ideas please feel free to contact me at seblop888@gmail.com
 
 ## Project status
 Sad to  say that development has slowed down because of sickness in the family, i had to put this in a hurry, i realy hope you enjoy it.
@@ -60,4 +53,5 @@ Inspiration, code snippets, etc.
 * https://www.google.com
 * https://fonts.google.com/
 * https://www.w3schools.com/
-* [https://www.youtube.com](https://www.youtube.com/@BreathworkBeats)
+* https://www.youtube.com/@BreathworkBeats
+
